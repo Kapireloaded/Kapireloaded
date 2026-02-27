@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there 👋
+
+:Computer: **Licenciado en Sistemas Computacionales Administrativos**
+:Pencil: **Aprendiendo**
+:eyeglases: **Me gusta  aprender cosas nuevas**
+:man_dancing: **Me gusta aprender a bailar salsa ON1**
+:Family: **Amo a mi Familia*
+**Estoy retomando la programacion**
+
+## Vias de Contacto
 
 <!--
 **Kapireloaded/Kapireloaded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
