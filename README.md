@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hola Soy Luis Rodríguez 👋
 
 :computer: **Licenciado en Sistemas Computacionales Administrativos**
 
@@ -11,7 +11,7 @@
 :family: **Amo a mi Familia**
 
 **Estoy retomando la programacion**
-**me gusta estudiar**
+**Me gusta estudiar**
 
 ## Vias de Contacto
 
