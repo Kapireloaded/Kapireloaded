@@ -13,6 +13,12 @@
 **Estoy retomando la programacion**
 **Me gusta estudiar**
 
+
+### :zap: Actividad Reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## Vias de Contacto
 
 ## Aficiones
